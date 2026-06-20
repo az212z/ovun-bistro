@@ -42,3 +42,11 @@ npx playwright test
 
 ## الملفات
 `index.html` · `404.html` · `assets/css/style.css` · `assets/js/main.js` · `assets/img/*` · `favicon.svg` · `tests/site.spec.ts` · `playwright.config.ts` · `DESIGN-QUALITY-REPORT.md` · `sales-message.md` · `.nojekyll`
+
+---
+## 🚀 النشر والاختبار
+- **الرابط:** https://az212z.github.io/ovun-bistro/ · **المستودع:** https://github.com/az212z/ovun-bistro
+- **الموشن التوقيعي:** كشف الطبق cloche+ورقة ذهب + طبقة حياة محيطة (بارالاكس/جزيئات/توهّج) — transform/opacity 60fps، يحترم prefers-reduced-motion.
+- **Playwright:** ✅ status 200، صفر أخطاء console، قائمة جوال ملء الشاشة، لا تمرير أفقي، صفر صور مكسورة.
+- **Lighthouse:** الأداء 67 · الوصولية 98 · أفضل الممارسات 100 · SEO 100
+- **التقييم (قوقل):** 4.5 (4,404) · **المنطقة:** الرياض · **Backend:** غير مربوط. **الصور:** حقيقية من خرائط قوقل، **مُحسّنة احترافيًا** (سطوع/تباين/تشبّع/حدّة) ومُنقّاة بصريًا.
